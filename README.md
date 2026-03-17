@@ -1,5 +1,5 @@
 # 🍽 Smart Canteen Management Decision Support System (SCMDSS)
-
+[Streamlit App](https://canteen-management-decision-system.streamlit.app)
 An web application that assists canteen owners in predicting food demand, optimizing menu planning, and reducing food wastage using Machine Learning and data analytics.
 
 ---

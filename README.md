@@ -211,7 +211,6 @@ The following credentials can be used to explore and test the application.
 | User  | [user@test.com](mailto:ctrl+coffee)   | ctrl+coffee  |
 
 
-
 > **Note:** These accounts are provided solely for demonstration and evaluation purposes. Please do not modify or delete shared test data.
 ---
 

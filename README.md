@@ -194,6 +194,26 @@ streamlit run main.py
 ```
 
 ---
+## Demo Login Credentials
+
+
+
+The following credentials can be used to explore and test the application.
+
+
+
+| Role  | User-name                               | Password  |
+
+| ----- | --------------------------------------- | --------- |
+
+| Admin | [admin@test.com](mailto:admin1) | admin123 |
+
+| User  | [user@test.com](mailto:ctrl+coffee)   | ctrl+coffee  |
+
+
+
+> **Note:** These accounts are provided solely for demonstration and evaluation purposes. Please do not modify or delete shared test data.
+---
 
 ## 🔐 Security
 
